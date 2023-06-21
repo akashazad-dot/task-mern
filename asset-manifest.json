@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-mern/static/css/main.7300bd73.css",
+    "main.js": "/task-mern/static/js/main.5c154d11.js",
+    "index.html": "/task-mern/index.html",
+    "main.7300bd73.css.map": "/task-mern/static/css/main.7300bd73.css.map",
+    "main.5c154d11.js.map": "/task-mern/static/js/main.5c154d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7300bd73.css",
+    "static/js/main.5c154d11.js"
+  ]
+}
